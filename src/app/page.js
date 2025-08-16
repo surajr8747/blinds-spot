@@ -232,7 +232,7 @@ export default function HomePage() {
             <h4 className="font-semibold mb-2">Contact</h4>
             <p>Email: blindsspot.us@gmail.com</p>
             <p>Phone: +1-201-665-3031</p>
-            <p>Instagram: @blindsspot</p>
+            <p>Instagram: @blindsspot.us</p>
           </div>
         </div>
       </footer>
